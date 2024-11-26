@@ -60,4 +60,3 @@ Understanding the key factors influencing wine quality helps winemakers optimize
 ## Authors  
 **Group 10**: Arjun Karnani, Dhanush Kumar Selvaraj Kumar, Naumi Aparanji, Saptarshi De, Shruthi Yenamagandla  
 
----
